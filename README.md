@@ -43,7 +43,7 @@
 
 # Step to run
 * Use VSCode, use python
-* Ctrl+Shift+p
+* Ctrl+Shift+p in VSCode
 * Python:Select Interpreter
 * Python 3.9.17('aiot-24') ~\anaconda3\envs\aiot-24\python.exe
 
