@@ -47,6 +47,9 @@
 * Python:Select Interpreter
 * Python 3.9.17('aiot-24') ~\anaconda3\envs\aiot-24\python.exe
 
+# Output
+![image](https://github.com/excelsior19999/intel_AI_squat_count/assets/139089030/dd084a6f-0f3a-4770-a6cf-c805704ff104)
 
 
-* 참조 : https://github.com/mokiya/kcci.intel.ai.project/tree/main/Round-01/Template
+# Appendix (참고 자료)
+* https://github.com/mokiya/kcci.intel.ai.project/tree/main/Round-01/Template
