@@ -2,7 +2,7 @@
 * URL : https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks
 * 205-vision-background-removal
 * 402-pose-estimation-webcam
-* AI를 활용해 사람을 인지하여 사람을 제외한 뒷 배경을 지우고 사람이 스쿼트를 하면 개수를 세는 프로그램이다.
+* AI를 활용해 사람을 인지하여 사람을 제외한 뒷 배경을 지우고 사람이 스쿼트를 하면 개수를 세는 프로그램입니다.
 
 # Requirement (필요 환경)
 * 프로세서	Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz   3.00 GHz
