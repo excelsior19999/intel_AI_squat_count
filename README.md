@@ -1,4 +1,5 @@
-# intel_AI_squat_count  # Project name
+# intel_AI_squat_count
+# Project name
 
 * (간략히 전체 프로젝트를 설명하고, 최종 목표가 무엇인지에 대해 기술)
 
