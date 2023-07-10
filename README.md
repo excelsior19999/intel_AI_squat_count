@@ -1,0 +1,1 @@
+# intel_AI_squat_count
